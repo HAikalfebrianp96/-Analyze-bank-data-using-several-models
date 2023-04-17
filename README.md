@@ -1,4 +1,5 @@
 # -Analyze-bank-data-using-several-models
+this resource  data : https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing
 The bank data is a common dataset used in machine learning for classification tasks. Several models can be applied to this dataset, including linear logistic regression, KNN, SVM, decision tree, random forest, and Naive Bayes.
 
 Linear logistic regression is a popular algorithm for binary classification. It is used to find the relationship between the independent variables and the binary dependent variable. The model estimates the probability of the binary outcome based on a set of input variables. In the case of the bank dataset, we can use logistic regression to predict whether a customer will subscribe to a term deposit.
